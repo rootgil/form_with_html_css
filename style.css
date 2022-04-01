@@ -93,8 +93,11 @@ form{
 .bot div{
     width: 32%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+}
+.bot div label{
+    margin-left: 10px;
 }
 input[type="checkbox"]{
     width: 16px;
