@@ -96,6 +96,9 @@ form{
     justify-content: space-between;
     align-items: center;
 }
+.bot div label{
+    margin-left: -20px;
+}
 input[type="checkbox"]{
     width: 16px;
     height: 16px;
